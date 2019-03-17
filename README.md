@@ -1,11 +1,11 @@
-##Turtles Walk
-##Developed by Naga Satyanarayana
+## Turtles Walk
+## Developed by Naga Satyanarayana
 
-##Description:-
-multiple Tortoises are walking randomly and it is a small entertainment program.
+## Description:-
+ multiple Tortoises are walking randomly and it is a small entertainment program.
 
-##Required Skills:-
+## Required Skills:-
 	*Python
 
-##Required Softwares:-
+## Required Softwares:-
 	*Python
